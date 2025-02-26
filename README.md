@@ -19,4 +19,6 @@ Přidej ensure toshi_tag do server.cfg
 
 Restartuj server
 
+Video: https://vimeo.com/manage/videos/1060357870/b4910a47f3
+
 Tento systém zlepšuje organizaci hráčů a přidává přehlednost na server. 🚀
